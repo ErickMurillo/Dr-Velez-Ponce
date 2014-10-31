@@ -1,0 +1,12 @@
+[01-Sep-2014 13:07:28] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/bootstrap/autoload.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/drvelezp/public_html/index.php on line 21
+[01-Sep-2014 13:07:31] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/bootstrap/autoload.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/drvelezp/public_html/index.php on line 21
+[01-Sep-2014 13:07:32] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/bootstrap/autoload.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/drvelezp/public_html/index.php on line 21
+[01-Sep-2014 13:10:30] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/bootstrap/autoload.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/drvelezp/public_html/index.php on line 21
+[02-Sep-2014 17:16:27 UTC] PHP Fatal error:  Class 'tema' not found in /home2/drvelezp/public_html/app/controllers/TemasController.php on line 35
+[02-Sep-2014 17:20:29 UTC] PHP Fatal error:  Class 'temas' not found in /home2/drvelezp/public_html/app/controllers/TemasController.php on line 35
+[02-Sep-2014 17:21:10 UTC] PHP Fatal error:  Class 'tema' not found in /home2/drvelezp/public_html/app/controllers/TemasController.php on line 35
+[02-Sep-2014 11:31:13 America/Managua] PHP Fatal error:  Class 'tema' not found in /home2/drvelezp/public_html/app/controllers/TemasController.php on line 8
+[02-Sep-2014 11:31:42 America/Managua] PHP Fatal error:  Class 'tema' not found in /home2/drvelezp/public_html/app/controllers/TemasController.php on line 8
+[22-Sep-2014 18:11:50 America/Managua] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home2/drvelezp/public_html/app/routes.php on line 75
+[22-Sep-2014 18:12:47 America/Managua] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home2/drvelezp/public_html/app/routes.php on line 74
+[29-Sep-2014 19:57:27 America/Managua] PHP Parse error:  syntax error, unexpected 'img' (T_STRING) in /home2/drvelezp/public_html/app/storage/views/c67b3d0cb50579aaaebf94467697e5bc on line 541
